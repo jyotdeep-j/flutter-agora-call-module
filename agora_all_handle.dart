@@ -4,8 +4,6 @@ import 'package:agora_rtc_engine/agora_rtc_engine.dart';
 import 'package:dio/dio.dart';
 import 'package:lottie/lottie.dart';
 import 'package:permission_handler/permission_handler.dart';
-import 'package:singles_connect/app/common/export.dart';
-
 import 'app/data/providers/chat_provider/impl/remote_chat_provider.dart';
 import 'app/data/providers/chat_provider/interface/ichat_repostary.dart';
 
